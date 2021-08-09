@@ -12,3 +12,7 @@ The dynamism of fake news evolution and dissemination plays a crucial role in in
 
 # Datasets
 
+Os datasets estão disponíveis em um link do google Drive, disponível na pasta pasta Heterogeneous PU-LP/Datasets.
+
+#Heterogeneous PU-LP
+
