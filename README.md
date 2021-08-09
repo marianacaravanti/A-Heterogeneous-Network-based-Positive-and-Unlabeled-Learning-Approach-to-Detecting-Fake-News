@@ -14,6 +14,8 @@ The dynamism of fake news evolution and dissemination plays a crucial role in in
 
 Os datasets estão disponíveis em um link do google Drive, disponível na pasta pasta Heterogeneous PU-LP/Datasets.
 
-#Heterogeneous PU-LP
+# Heterogeneous PU-LP
 
 ![methodology](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/methodology.png)
+
+# Results
