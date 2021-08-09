@@ -16,4 +16,4 @@ Os datasets estão disponíveis em um link do google Drive, disponível na pasta
 
 #Heterogeneous PU-LP
 
-![methodology](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/fig-met.pdf)
+![methodology](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/methodology.png)
