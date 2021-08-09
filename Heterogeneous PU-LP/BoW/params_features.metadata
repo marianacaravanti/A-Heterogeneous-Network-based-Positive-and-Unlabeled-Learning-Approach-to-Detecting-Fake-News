@@ -1,0 +1,13 @@
+network_name	features	weight_relations	
+net_0.relations	news	{"news_news": 1}
+net_1.relations	news,term	{"news_news": 1, "news_term": 1}
+net_2.relations	news,emotiveness	{"news_news": 1, "news_emotiveness": 1}
+net_3.relations	news,pausality	{"news_news": 1, "news_pausality": 1}
+net_4.relations	news,avgwordsent	{"news_news": 1, "news_avgwordsent": 1}
+net_5.relations	news,term,emotiveness	{"news_news": 1, "news_term": 1, "news_emotiveness": 1}
+net_6.relations	news,term,pausality	{"news_news": 1, "news_term": 1, "news_pausality": 1}
+net_7.relations	news,term,avgwordsent	{"news_news": 1, "news_term": 1, "news_avgwordsent":1}
+net_8.relations	news,term,emotiveness,pausality	{"news_news": 1, "news_term": 1, "news_emotiveness":1, "news_pausality":1}
+net_9.relations	news,term,emotiveness,avgwordsent	{"news_news": 1, "news_term": 1, "news_emotiveness":1, "news_avgwordsent": 1}
+net_10.relations	news,term,pausality,avgwordsent	{"news_news": 1, "news_term": 1, "news_pausality": 1, "news_avgwordsent": 1}
+net_11.relations	news,term,pausality,avgwordsent,emotiveness	{"news_news": 1, "news_term": 1, "news_pausality":1, "news_avgwordsent":1, "news_emotiveness":1}
