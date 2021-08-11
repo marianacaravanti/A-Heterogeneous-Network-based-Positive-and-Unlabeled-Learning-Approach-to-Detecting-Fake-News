@@ -18,7 +18,11 @@ Os datasets estão disponíveis em um link do google Drive, disponível na pasta
 
 ![methodology](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/methodology.png)
 
-# Features table
+# Table of features used in each heterogeneous network
 ![features table](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/features%20table.png)
+
+# Features of each news Dataset
+![datasets](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/datasets%20information.png)
+
 # Results
 ![results](https://github.com/marianacaravanti/A-Heterogeneous-Network-based-Positive-and-Unlabeled-Learning-Approach-to-Detecting-Fake-News/blob/main/Figures/results.png)
