@@ -36,7 +36,7 @@ Workshops (ICMEW). pp. 537–542. IEEE (2017).
 
 [FNN]: Shu, Kai, et al. Fakenewsnet: A data repository with news content, social context, and spatiotemporal information for studying fake news on social media. Big data 8.3 (2020): 171-188.
 
-[FNC0]: Fonte: ![FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus/blob/master/LICENSE)
+[FNC0]: Fonte: <a href="https://github.com/several27/FakeNewsCorpus">FakeNewsCorpus</a>)
 
 [FNC1]:
 
